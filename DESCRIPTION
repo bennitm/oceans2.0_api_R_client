@@ -1,0 +1,23 @@
+Package: onc.api
+Title:  Oceans 2.0 API Client Library
+Description: What the package does (one paragraph).
+Version: 2.0.1.0
+Authors@R: 
+    c(person("Dany", "Cabrera", role = c("aut", "cre"), email = "data@oceannetworks.ca"),
+               person("Allan", "Rempel", role = "ctb"),
+               person("Ryan", "Ross", role = "ctb"),
+               person("Bennit", "Mueller", role = "ctb"))
+Maintainer:  Bennit Mueller <data@oceannetworks.ca>
+URL:         https://wiki.oceannetworks.ca/display/O2A/Client+Libraries
+License: `use_mit_license()`, `use_gpl3_license()` + file LICENSE
+Imports:     anytime,
+             httr,
+             humanize,
+             lubridate,
+             stringi,
+             tictoc,
+             utils
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.1
