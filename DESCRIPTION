@@ -1,12 +1,12 @@
+ 
 Package: onc.api
 Title:  Oceans 2.0 API Client Library
 Description: Allows users to discover and retrieve Ocean Networks Canada's oceanographic data in raw, text, image, audio, video or any other format available. Provides a class that wraps web service calls and business logic so that users can download data with a single line of code.
 Version: 2.0.1.0
-Authors@R: 
-    c(person("Dany", "Cabrera", role = c("aut", "cre")),
+Authors@R:   c(person("Dany", "Cabrera", role = c("aut", "cre"), email = "data@oceannetworks.ca"),
                person("Allan", "Rempel", role = "ctb"),
                person("Ryan", "Ross", role = "ctb"),
-               person("Bennit", "Mueller", role = "ctb", email = "data@oceannetworks.ca"))
+               person("Bennit", "Mueller", role = "ctb"))
 Maintainer:  Bennit Mueller <data@oceannetworks.ca>
 URL:         https://wiki.oceannetworks.ca/display/O2A/Client+Libraries
 License: MIT + file LICENSE
