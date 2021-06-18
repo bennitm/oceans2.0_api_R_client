@@ -6,7 +6,7 @@ Authors@R:
     c(person("Dany", "Cabrera", role = c("aut", "cre"),
                person("Allan", "Rempel", role = "ctb"),
                person("Ryan", "Ross", role = "ctb"),
-               person("Bennit", "Mueller", role = "ctb"), email = "data@oceannetworks.ca"))
+               person("Bennit", "Mueller", role = "ctb", email = "data@oceannetworks.ca"))
 Maintainer:  Bennit Mueller <data@oceannetworks.ca>
 URL:         https://wiki.oceannetworks.ca/display/O2A/Client+Libraries
 License: MIT + file LICENSE
