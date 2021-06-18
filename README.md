@@ -1,4 +1,4 @@
-# ONC API R Client Library
+# ONC Oceans2.0 API R Client Library
 
 This library facilitates access to scientific data hosted by [Ocean Networks Canada](https://oceannetworks.ca) through the
 [Oceans 2.0 API](https://wiki.oceannetworks.ca/display/O2A/Oceans+2.0+API+Home) public web services.
